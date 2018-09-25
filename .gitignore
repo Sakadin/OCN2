@@ -12,6 +12,8 @@ env/
 build/
 develop-eggs/
 dist/
+venv*/
+.idea/
 downloads/
 eggs/
 .eggs/
